@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "WebhookGateway": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7294",
+      "launchBrowser": false
+    }
+  }
+}
